@@ -3,7 +3,7 @@ import java.lang.*;
 import java.io.*;
 class alphabet_or_number
 {
-	public static void main (String[] args) throws java.lang.Exception
+	public static void main (String[] args)
 	{
 		char alphabet;
 		Scanner s = new Scanner(System.in);
