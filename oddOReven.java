@@ -6,11 +6,11 @@ class even_or_odd
 		Scanner s = new Scanner(System.in);
 		System.out.println("enter value of a");
 		int a = s.nextInt();
-		if(a%2 == 0)
+		if(a % 2 == 0)
 		{
 			System.out.println("number is even");
 		}
-		else if(a%2 == 1)
+		else if(a % 2 == 1)
 		{
 			System.out.println("number is odd");
 		}
